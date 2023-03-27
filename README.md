@@ -10,3 +10,5 @@ Created a script that loops through all the stocks for one year and outputs the 
 
 
 ![Screenshots of the Results 1:3](https://user-images.githubusercontent.com/126301312/228064485-2b95dd1b-f920-45ce-9f13-ddcab4107948.png)
+![Screenshots of the Results 2:3](https://user-images.githubusercontent.com/126301312/228064535-e7cf9e73-ce2d-4722-9127-5db056e88618.png)
+![Screenshots of the Results 3:3](https://user-images.githubusercontent.com/126301312/228064545-1c04583f-0e6e-4c29-9cac-90f66c93b2e4.png)
