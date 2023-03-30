@@ -2,8 +2,6 @@
 
 ![banner](https://user-images.githubusercontent.com/126301312/228714208-8f2b28a7-f953-425c-a442-73a50f274e6a.png)
 
-use VBA scripting to analyze generated stock market data.
-
 # Background
 
 In this assignment I used VBA scripting to analyze generated stock market data. 
